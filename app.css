@@ -1,0 +1,23 @@
+body, html {
+  width: 100%;
+  height: 100%;
+}
+h1 {
+ float: left;
+ margin-right: 453px;
+}
+body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+canvas {
+  border: 1px solid black;
+}
+form {
+  position: relative;
+  margin: auto;
+  top: 28px;
+  float: right;
+}
